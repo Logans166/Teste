@@ -1,0 +1,61 @@
+Livro
+Atributos:
+Tamanho
+Paginas
+Peso
+Cor
+
+Metodos:
+Abrir()
+
+Estado:
+Limpo
+Novo
+--------------------------------------------------
+Vaporizante Descongestionante VapoRub Vick
+Atributos:
+Cor
+Quantidade De Creme
+Peso
+Validade
+
+Metodos:
+Abrir()
+Fechar()
+Cheirar()
+
+Estado:
+Vazio
+Fechado
+--------------------------------------------------
+Ver Video Aula
+Atributos:
+Titulo
+Duracao
+Nome Do Professor
+Disciplina
+
+Metodos:
+Reproduzir()
+Pausar()
+Acelerar()
+Concluir()
+
+Estado:
+Pausada
+--------------------------------------------------
+Atividade do Google Classroom
+Atributos:
+Descricao
+Data De Entrega
+Nota
+Quantidade De Questoes
+
+Metodos:
+Ler Enunciado()
+Responder()
+Anexar Arquivo()
+Entregar()
+
+Estado:
+Entregue
